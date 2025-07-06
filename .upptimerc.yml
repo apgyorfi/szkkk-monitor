@@ -8,7 +8,7 @@ sites:
   - name: Fehérvári program jegyrendszer
     url: https://fehervariprogram.hu/jegy
   - name: Barátság mozi honlap
-    url: https://batatsagmozi.hu
+    url: https://baratsagmozi.hu
   - name: Barátság mozi jegyrendszer
     url: https://musor.baratsagmozi.hu
   - name: Királyi napok
