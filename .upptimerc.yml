@@ -18,15 +18,6 @@ sites:
   - name: Diáknapok
     url: https://diaknapok.hu
 
-workflowSchedule:
-  graphs: "*/5 * * * *"
-  responseTime: "*/5 * * * *"
-  staticSite: "0 1 * * *"
-  summary: "*/5 * * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -36,9 +27,9 @@ status-website:
   name: SZKKK MONITOR
   introTitle: ""
   introMessage: 
-  navbar:
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  # navbar:
+    # - title: GitHub
+    # href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
