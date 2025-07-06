@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fehervariprogram.hu.ico",
     "slug": "fehervari-program",
     "status": "up",
-    "uptime": "73.39%",
-    "uptimeDay": "73.39%",
-    "uptimeWeek": "73.39%",
-    "uptimeMonth": "73.39%",
-    "uptimeYear": "73.39%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3089,
     "timeDay": 3089,
     "timeWeek": 3089,
     "timeMonth": 3089,
     "timeYear": 3089,
-    "dailyMinutesDown": {
-      "2025-07-06": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fehérvári program jegyrendszer",
