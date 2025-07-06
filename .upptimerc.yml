@@ -7,6 +7,8 @@ sites:
     url: https://www.fehervariprogram.hu
   - name: Fehérvári program jegyrendszer
     url: https://fehervariprogram.hu/jegy
+  - name: Tele Élettel programportál
+    url: https://teleelettel.hu
   - name: Barátság mozi honlap
     url: https://baratsagmozi.hu
   - name: Barátság mozi jegyrendszer
