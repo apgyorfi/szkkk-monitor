@@ -42,7 +42,7 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "50 23 * * *"
 
-i18n :
+i18n:
   activeIncidents: Aktív incidensek
   allSystemsOperational: Minden rendszer működik
   incidentReport: "Incident #$NUMBER report →"
