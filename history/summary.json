@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fehervariprogram.hu.ico",
     "slug": "fehervari-program",
     "status": "down",
-    "uptime": "80.67%",
-    "uptimeDay": "80.67%",
-    "uptimeWeek": "80.67%",
-    "uptimeMonth": "80.67%",
-    "uptimeYear": "80.67%",
+    "uptime": "76.15%",
+    "uptimeDay": "76.15%",
+    "uptimeWeek": "76.15%",
+    "uptimeMonth": "76.15%",
+    "uptimeYear": "76.15%",
     "time": 3036,
     "timeDay": 3036,
     "timeWeek": 3036,
     "timeMonth": 3036,
     "timeYear": 3036,
     "dailyMinutesDown": {
-      "2025-07-06": 25
+      "2025-07-06": 32
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fehervariprogram.hu.ico",
     "slug": "fehervari-program-jegyrendszer",
     "status": "down",
-    "uptime": "80.97%",
-    "uptimeDay": "80.97%",
-    "uptimeWeek": "80.97%",
-    "uptimeMonth": "80.97%",
-    "uptimeYear": "80.97%",
+    "uptime": "76.42%",
+    "uptimeDay": "76.42%",
+    "uptimeWeek": "76.42%",
+    "uptimeMonth": "76.42%",
+    "uptimeYear": "76.42%",
     "time": 1916,
     "timeDay": 1916,
     "timeWeek": 1916,
     "timeMonth": 1916,
     "timeYear": 1916,
     "dailyMinutesDown": {
-      "2025-07-06": 24
+      "2025-07-06": 32
     }
   },
   {
