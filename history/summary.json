@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fehervariprogram.hu.ico",
     "slug": "fehervari-program",
     "status": "up",
-    "uptime": "82.12%",
-    "uptimeDay": "82.12%",
-    "uptimeWeek": "82.12%",
-    "uptimeMonth": "82.12%",
-    "uptimeYear": "82.12%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2884,
     "timeDay": 2884,
     "timeWeek": 2884,
     "timeMonth": 2884,
     "timeYear": 2884,
-    "dailyMinutesDown": {
-      "2025-07-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fehérvári program jegyrendszer",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fehervariprogram.hu.ico",
     "slug": "fehervari-program-jegyrendszer",
     "status": "up",
-    "uptime": "83.41%",
-    "uptimeDay": "83.41%",
-    "uptimeWeek": "83.41%",
-    "uptimeMonth": "83.41%",
-    "uptimeYear": "83.41%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1923,
     "timeDay": 1923,
     "timeWeek": 1923,
     "timeMonth": 1923,
     "timeYear": 1923,
-    "dailyMinutesDown": {
-      "2025-07-06": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tele Élettel programportál",
