@@ -4,6 +4,8 @@ repo: szkkk-monitor # The name of this repository
 
 runner: "[self-hosted, linux, X64]"
 
+skipDeleteIssues: true
+
 sites:
   - name: Fehérvári program
     url: https://www.fehervariprogram.hu
