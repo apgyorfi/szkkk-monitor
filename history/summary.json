@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fehervariprogram.hu.ico",
     "slug": "fehervari-program",
     "status": "down",
-    "uptime": "24.43%",
-    "uptimeDay": "24.43%",
-    "uptimeWeek": "24.43%",
-    "uptimeMonth": "24.43%",
-    "uptimeYear": "24.43%",
+    "uptime": "20.27%",
+    "uptimeDay": "20.27%",
+    "uptimeWeek": "20.27%",
+    "uptimeMonth": "20.27%",
+    "uptimeYear": "20.27%",
     "time": 2970,
     "timeDay": 2970,
     "timeWeek": 2970,
     "timeMonth": 2970,
     "timeYear": 2970,
     "dailyMinutesDown": {
-      "2025-07-06": 435
+      "2025-07-07": 9,
+      "2025-07-06": 543
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fehervariprogram.hu.ico",
     "slug": "fehervari-program-jegyrendszer",
     "status": "down",
-    "uptime": "24.51%",
-    "uptimeDay": "24.51%",
-    "uptimeWeek": "24.51%",
-    "uptimeMonth": "24.51%",
-    "uptimeYear": "24.51%",
+    "uptime": "20.33%",
+    "uptimeDay": "20.33%",
+    "uptimeWeek": "20.33%",
+    "uptimeMonth": "20.33%",
+    "uptimeYear": "20.33%",
     "time": 1890,
     "timeDay": 1890,
     "timeWeek": 1890,
     "timeMonth": 1890,
     "timeYear": 1890,
     "dailyMinutesDown": {
-      "2025-07-06": 433
+      "2025-07-07": 9,
+      "2025-07-06": 542
     }
   },
   {
@@ -45,16 +47,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/teleelettel.hu.ico",
     "slug": "tele-elettel-programportal",
     "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "98.43%",
-    "time": 8738,
-    "timeDay": 8738,
-    "timeWeek": 8738,
-    "timeMonth": 8738,
-    "timeYear": 8738,
+    "uptime": "98.71%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
+    "time": 8578,
+    "timeDay": 8578,
+    "timeWeek": 8578,
+    "timeMonth": 8578,
+    "timeYear": 8578,
     "dailyMinutesDown": {
       "2025-07-06": 9
     }
@@ -70,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 840,
-    "timeDay": 840,
-    "timeWeek": 840,
-    "timeMonth": 840,
-    "timeYear": 840,
+    "time": 751,
+    "timeDay": 751,
+    "timeWeek": 751,
+    "timeMonth": 751,
+    "timeYear": 751,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 638,
-    "timeWeek": 638,
-    "timeMonth": 638,
-    "timeYear": 638,
+    "time": 555,
+    "timeDay": 555,
+    "timeWeek": 555,
+    "timeMonth": 555,
+    "timeYear": 555,
     "dailyMinutesDown": {}
   },
   {
@@ -106,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 659,
-    "timeDay": 659,
-    "timeWeek": 659,
-    "timeMonth": 659,
-    "timeYear": 659,
+    "time": 574,
+    "timeDay": 574,
+    "timeWeek": 574,
+    "timeMonth": 574,
+    "timeYear": 574,
     "dailyMinutesDown": {}
   },
   {
@@ -124,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 967,
-    "timeDay": 967,
-    "timeWeek": 967,
-    "timeMonth": 967,
-    "timeYear": 967,
+    "time": 878,
+    "timeDay": 878,
+    "timeWeek": 878,
+    "timeMonth": 878,
+    "timeYear": 878,
     "dailyMinutesDown": {}
   }
 ]
