@@ -9,6 +9,8 @@ skipDeleteIssues: true
 sites:
   - name: Fehérvári program
     url: https://www.fehervariprogram.hu
+  - name: Lecsó jelentkezés
+    url: https://lecso.applynow.hu
   - name: Fehérvári program jegyrendszer
     url: https://fehervariprogram.hu/jegy
   - name: Tele Élettel programportál
