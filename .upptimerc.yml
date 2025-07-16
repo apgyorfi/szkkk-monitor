@@ -17,6 +17,7 @@ sites:
     url: https://teleelettel.hu
   - name: Barátság mozi honlap
     url: https://baratsagmozi.hu
+    maxResponseTime: 5000
   - name: Barátság mozi jegyrendszer
     url: https://musor.baratsagmozi.hu
   - name: Királyi napok
