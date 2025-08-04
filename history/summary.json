@@ -28,7 +28,7 @@
     "slug": "lecso-jelentkezes",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "98.69%",
+    "uptimeDay": "98.68%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.44%",
@@ -38,6 +38,7 @@
     "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {
+      "2025-08-04": 0,
       "2025-08-03": 19,
       "2025-08-02": 5,
       "2025-08-01": 3,
