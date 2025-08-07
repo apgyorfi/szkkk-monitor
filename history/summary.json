@@ -13,7 +13,7 @@
     "time": 1657,
     "timeDay": 521,
     "timeWeek": 506,
-    "timeMonth": 1879,
+    "timeMonth": 1915,
     "timeYear": 1657,
     "dailyMinutesDown": {
       "2025-07-25": 50,
@@ -29,12 +29,12 @@
     "status": "up",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.47%",
     "time": 179,
     "timeDay": 120,
-    "timeWeek": 278,
+    "timeWeek": 285,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
@@ -69,15 +69,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fehervariprogram.hu.ico",
     "slug": "fehervari-program-jegyrendszer",
     "status": "up",
-    "uptime": "98.06%",
+    "uptime": "98.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "98.06%",
+    "uptimeYear": "98.07%",
     "time": 1417,
     "timeDay": 956,
     "timeWeek": 965,
-    "timeMonth": 1500,
+    "timeMonth": 1522,
     "timeYear": 1417,
     "dailyMinutesDown": {
       "2025-07-25": 73,
@@ -90,16 +90,16 @@
     "url": "https://teleelettel.hu",
     "icon": "https://icons.duckduckgo.com/ip3/teleelettel.hu.ico",
     "slug": "tele-elettel-programportal",
-    "status": "up",
-    "uptime": "94.50%",
-    "uptimeDay": "63.62%",
+    "status": "down",
+    "uptime": "94.53%",
+    "uptimeDay": "71.02%",
     "uptimeWeek": "75.46%",
-    "uptimeMonth": "94.16%",
-    "uptimeYear": "94.50%",
+    "uptimeMonth": "94.17%",
+    "uptimeYear": "94.53%",
     "time": 12125,
-    "timeDay": 15841,
+    "timeDay": 15656,
     "timeWeek": 14340,
-    "timeMonth": 13192,
+    "timeMonth": 13259,
     "timeYear": 12125,
     "dailyMinutesDown": {
       "2025-08-07": 300,
@@ -110,7 +110,7 @@
       "2025-08-02": 554,
       "2025-08-01": 161,
       "2025-07-31": 89,
-      "2025-07-30": 11
+      "2025-07-30": 5
     }
   },
   {
@@ -127,7 +127,7 @@
     "time": 546,
     "timeDay": 781,
     "timeWeek": 477,
-    "timeMonth": 468,
+    "timeMonth": 472,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2025-07-07": 6
@@ -147,7 +147,7 @@
     "time": 313,
     "timeDay": 253,
     "timeWeek": 262,
-    "timeMonth": 260,
+    "timeMonth": 262,
     "timeYear": 313,
     "dailyMinutesDown": {}
   },
@@ -183,7 +183,7 @@
     "time": 601,
     "timeDay": 369,
     "timeWeek": 434,
-    "timeMonth": 473,
+    "timeMonth": 467,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2025-07-25": 5,
