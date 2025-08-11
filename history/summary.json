@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fehervariprogram.hu.ico",
     "slug": "fehervari-program",
     "status": "up",
-    "uptime": "98.29%",
+    "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "98.29%",
+    "uptimeYear": "98.30%",
     "time": 1633,
     "timeDay": 480,
     "timeWeek": 501,
@@ -93,15 +93,15 @@
     "url": "https://teleelettel.hu",
     "icon": "https://icons.duckduckgo.com/ip3/teleelettel.hu.ico",
     "slug": "tele-elettel-programportal",
-    "status": "up",
-    "uptime": "95.58%",
+    "status": "down",
+    "uptime": "95.59%",
     "uptimeDay": "68.72%",
-    "uptimeWeek": "77.38%",
+    "uptimeWeek": "77.42%",
     "uptimeMonth": "94.80%",
-    "uptimeYear": "95.58%",
+    "uptimeYear": "95.59%",
     "time": 12107,
     "timeDay": 12213,
-    "timeWeek": 13658,
+    "timeWeek": 13666,
     "timeMonth": 13528,
     "timeYear": 12107,
     "dailyMinutesDown": {
@@ -112,7 +112,7 @@
       "2025-08-07": 304,
       "2025-08-06": 415,
       "2025-08-05": 472,
-      "2025-08-04": 431
+      "2025-08-04": 427
     }
   },
   {
