@@ -5,21 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fehervariprogram.hu.ico",
     "slug": "fehervari-program",
     "status": "up",
-    "uptime": "98.35%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "98.35%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1627,
     "timeDay": 478,
     "timeWeek": 496,
     "timeMonth": 2526,
     "timeYear": 1627,
-    "dailyMinutesDown": {
-      "2025-07-25": 50,
-      "2025-07-07": 287,
-      "2025-07-06": 543
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lecsó jelentkezés",
@@ -73,37 +69,33 @@
     "icon": "https://icons.duckduckgo.com/ip3/fehervariprogram.hu.ico",
     "slug": "fehervari-program-jegyrendszer",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "98.31%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1406,
     "timeDay": 955,
     "timeWeek": 991,
     "timeMonth": 1563,
     "timeYear": 1406,
-    "dailyMinutesDown": {
-      "2025-07-25": 73,
-      "2025-07-07": 287,
-      "2025-07-06": 542
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tele Élettel programportál",
     "url": "https://teleelettel.hu",
     "icon": "https://icons.duckduckgo.com/ip3/teleelettel.hu.ico",
     "slug": "tele-elettel-programportal",
-    "status": "up",
+    "status": "down",
     "uptime": "96.54%",
-    "uptimeDay": "78.73%",
+    "uptimeDay": "79.16%",
     "uptimeWeek": "81.67%",
     "uptimeMonth": "95.78%",
     "uptimeYear": "96.54%",
     "time": 12147,
     "timeDay": 13374,
     "timeWeek": 12670,
-    "timeMonth": 13474,
+    "timeMonth": 13452,
     "timeYear": 12147,
     "dailyMinutesDown": {
       "2025-08-12": 73,
@@ -121,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/baratsagmozi.hu.ico",
     "slug": "baratsag-mozi-honlap",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 546,
     "timeDay": 399,
     "timeWeek": 561,
     "timeMonth": 505,
     "timeYear": 546,
-    "dailyMinutesDown": {
-      "2025-07-07": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Barátság mozi jegyrendszer",
@@ -177,19 +167,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/diaknapok.hu.ico",
     "slug": "diaknapok",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 598,
     "timeDay": 356,
     "timeWeek": 416,
     "timeMonth": 422,
     "timeYear": 598,
-    "dailyMinutesDown": {
-      "2025-07-25": 5,
-      "2025-07-07": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
