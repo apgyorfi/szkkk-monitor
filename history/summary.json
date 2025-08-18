@@ -28,7 +28,7 @@
     "slug": "lecso-jelentkezes",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "98.63%",
+    "uptimeDay": "98.74%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.43%",
@@ -99,15 +99,15 @@
     "url": "https://teleelettel.hu",
     "icon": "https://icons.duckduckgo.com/ip3/teleelettel.hu.ico",
     "slug": "tele-elettel-programportal",
-    "status": "up",
+    "status": "down",
     "uptime": "94.17%",
     "uptimeDay": "56.15%",
-    "uptimeWeek": "64.39%",
-    "uptimeMonth": "91.79%",
+    "uptimeWeek": "64.47%",
+    "uptimeMonth": "91.80%",
     "uptimeYear": "94.17%",
     "time": 12421,
     "timeDay": 12883,
-    "timeWeek": 14224,
+    "timeWeek": 14275,
     "timeMonth": 13768,
     "timeYear": 12421,
     "dailyMinutesDown": {
@@ -118,7 +118,7 @@
       "2025-08-14": 862,
       "2025-08-13": 124,
       "2025-08-12": 604,
-      "2025-08-11": 420
+      "2025-08-11": 416
     }
   },
   {
