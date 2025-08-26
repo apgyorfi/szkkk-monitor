@@ -12,7 +12,7 @@
     "uptimeYear": "98.81%",
     "time": 1550,
     "timeDay": 549,
-    "timeWeek": 525,
+    "timeWeek": 531,
     "timeMonth": 528,
     "timeYear": 1550,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
     "uptimeYear": "99.49%",
     "time": 173,
     "timeDay": 134,
-    "timeWeek": 185,
+    "timeWeek": 189,
     "timeMonth": 192,
     "timeYear": 173,
     "dailyMinutesDown": {
@@ -89,7 +89,7 @@
     "uptimeYear": "98.78%",
     "time": 1377,
     "timeDay": 1187,
-    "timeWeek": 967,
+    "timeWeek": 1042,
     "timeMonth": 975,
     "timeYear": 1377,
     "dailyMinutesDown": {
@@ -103,15 +103,15 @@
     "url": "https://teleelettel.hu",
     "icon": "https://icons.duckduckgo.com/ip3/teleelettel.hu.ico",
     "slug": "tele-elettel-programportal",
-    "status": "up",
-    "uptime": "94.17%",
-    "uptimeDay": "98.14%",
+    "status": "down",
+    "uptime": "94.18%",
+    "uptimeDay": "98.16%",
     "uptimeWeek": "82.27%",
-    "uptimeMonth": "90.16%",
-    "uptimeYear": "94.17%",
+    "uptimeMonth": "90.17%",
+    "uptimeYear": "94.18%",
     "time": 12636,
     "timeDay": 12464,
-    "timeWeek": 14497,
+    "timeWeek": 14618,
     "timeMonth": 13933,
     "timeYear": 12636,
     "dailyMinutesDown": {
@@ -126,7 +126,7 @@
       "2025-08-18": 783,
       "2025-08-17": 569,
       "2025-08-16": 682,
-      "2025-08-15": 88
+      "2025-08-15": 84
     }
   },
   {
@@ -142,7 +142,7 @@
     "uptimeYear": "99.98%",
     "time": 592,
     "timeDay": 400,
-    "timeWeek": 415,
+    "timeWeek": 416,
     "timeMonth": 886,
     "timeYear": 592,
     "dailyMinutesDown": {
@@ -163,7 +163,7 @@
     "uptimeYear": "100.00%",
     "time": 309,
     "timeDay": 228,
-    "timeWeek": 258,
+    "timeWeek": 251,
     "timeMonth": 267,
     "timeYear": 309,
     "dailyMinutesDown": {}
@@ -181,7 +181,7 @@
     "uptimeYear": "100.00%",
     "time": 319,
     "timeDay": 224,
-    "timeWeek": 236,
+    "timeWeek": 238,
     "timeMonth": 252,
     "timeYear": 319,
     "dailyMinutesDown": {}
@@ -199,7 +199,7 @@
     "uptimeYear": "99.99%",
     "time": 590,
     "timeDay": 342,
-    "timeWeek": 481,
+    "timeWeek": 496,
     "timeMonth": 442,
     "timeYear": 590,
     "dailyMinutesDown": {
