@@ -103,15 +103,15 @@
     "url": "https://teleelettel.hu",
     "icon": "https://icons.duckduckgo.com/ip3/teleelettel.hu.ico",
     "slug": "tele-elettel-programportal",
-    "status": "up",
-    "uptime": "94.74%",
-    "uptimeDay": "96.27%",
+    "status": "down",
+    "uptime": "94.78%",
+    "uptimeDay": "96.26%",
     "uptimeWeek": "88.37%",
-    "uptimeMonth": "90.88%",
-    "uptimeYear": "94.74%",
+    "uptimeMonth": "90.94%",
+    "uptimeYear": "94.78%",
     "time": 12646,
     "timeDay": 13067,
-    "timeWeek": 14799,
+    "timeWeek": 14610,
     "timeMonth": 13969,
     "timeYear": 12646,
     "dailyMinutesDown": {
@@ -127,7 +127,7 @@
       "2025-08-19": 411,
       "2025-08-18": 783,
       "2025-08-17": 569,
-      "2025-08-16": 373
+      "2025-08-16": 346
     }
   },
   {
