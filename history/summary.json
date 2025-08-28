@@ -26,9 +26,9 @@
     "url": "https://lecso.applynow.hu",
     "icon": "https://icons.duckduckgo.com/ip3/lecso.applynow.hu.ico",
     "slug": "lecso-jelentkezes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.51%",
@@ -38,6 +38,7 @@
     "timeMonth": 186,
     "timeYear": 172,
     "dailyMinutesDown": {
+      "2025-08-28": 0,
       "2025-08-26": 15,
       "2025-08-25": 12,
       "2025-08-21": 3,
@@ -72,8 +73,7 @@
       "2025-07-13": 10,
       "2025-07-12": 5,
       "2025-07-11": 20,
-      "2025-07-09": 14,
-      "2025-07-08": 2
+      "2025-07-09": 14
     }
   },
   {
