@@ -26,9 +26,9 @@
     "url": "https://lecso.applynow.hu",
     "icon": "https://icons.duckduckgo.com/ip3/lecso.applynow.hu.ico",
     "slug": "lecso-jelentkezes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "99.14%",
+    "uptimeDay": "99.11%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.55%",
@@ -73,7 +73,7 @@
       "2025-07-18": 16,
       "2025-07-16": 9,
       "2025-07-15": 5,
-      "2025-07-14": 12
+      "2025-07-14": 7
     }
   },
   {
@@ -195,18 +195,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/diaknapok.hu.ico",
     "slug": "diaknapok",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "80.05%",
-    "uptimeWeek": "97.15%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.57%",
+    "uptimeDay": "75.87%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.57%",
     "time": 585,
     "timeDay": 365,
     "timeWeek": 357,
     "timeMonth": 432,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-09-02": 171,
+      "2025-09-02": 231,
       "2025-09-01": 117,
       "2025-07-25": 5,
       "2025-07-07": 6
