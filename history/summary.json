@@ -26,11 +26,11 @@
     "url": "https://lecso.applynow.hu",
     "icon": "https://icons.duckduckgo.com/ip3/lecso.applynow.hu.ico",
     "slug": "lecso-jelentkezes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.60%",
     "time": 172,
     "timeDay": 157,
@@ -38,6 +38,7 @@
     "timeMonth": 171,
     "timeYear": 172,
     "dailyMinutesDown": {
+      "2025-09-14": 0,
       "2025-09-13": 13,
       "2025-09-12": 13,
       "2025-09-11": 20,
@@ -76,7 +77,7 @@
       "2025-07-27": 14,
       "2025-07-25": 3,
       "2025-07-24": 4,
-      "2025-07-23": 10
+      "2025-07-23": 7
     }
   },
   {
@@ -115,7 +116,7 @@
     "time": 12845,
     "timeDay": 9514,
     "timeWeek": 12584,
-    "timeMonth": 14387,
+    "timeMonth": 14316,
     "timeYear": 12845,
     "dailyMinutesDown": {
       "2025-09-13": 38,
@@ -202,11 +203,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/diaknapok.hu.ico",
     "slug": "diaknapok",
     "status": "up",
-    "uptime": "94.23%",
+    "uptime": "94.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.83%",
-    "uptimeYear": "94.23%",
+    "uptimeYear": "94.24%",
     "time": 584,
     "timeDay": 368,
     "timeWeek": 574,
