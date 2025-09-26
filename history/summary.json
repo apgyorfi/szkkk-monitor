@@ -27,9 +27,9 @@
     "url": "https://lecso.applynow.hu",
     "icon": "https://icons.duckduckgo.com/ip3/lecso.applynow.hu.ico",
     "slug": "lecso-jelentkezes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "99.35%",
+    "uptimeDay": "99.32%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.66%",
@@ -39,6 +39,7 @@
     "timeMonth": 160,
     "timeYear": 168,
     "dailyMinutesDown": {
+      "2025-09-26": 0,
       "2025-09-25": 19,
       "2025-09-24": 8,
       "2025-09-23": 10,
@@ -73,7 +74,7 @@
       "2025-08-15": 15,
       "2025-08-14": 2,
       "2025-08-13": 2,
-      "2025-08-12": 6
+      "2025-08-12": 5
     }
   },
   {
@@ -105,12 +106,12 @@
     "slug": "tele-elettel-programportal",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "94.07%",
+    "uptimeDay": "94.89%",
     "uptimeWeek": "95.58%",
     "uptimeMonth": "96.98%",
     "uptimeYear": "98.88%",
     "time": 12882,
-    "timeDay": 12593,
+    "timeDay": 12669,
     "timeWeek": 13025,
     "timeMonth": 13638,
     "timeYear": 12882,
