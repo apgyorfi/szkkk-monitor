@@ -1,7 +1,7 @@
 url: https://www.fehervariprogram.hu
-status: up
-code: 200
-responseTime: 709
-lastUpdated: 2025-10-05T23:06:05.845Z
+status: down
+code: 500
+responseTime: 366
+lastUpdated: 2025-10-06T09:52:21.568Z
 startTime: 2025-07-06T12:36:48.195Z
 generator: Upptime <https://github.com/upptime/upptime>
