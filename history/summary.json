@@ -35,10 +35,10 @@
     "url": "https://lecso.applynow.hu",
     "icon": "https://icons.duckduckgo.com/ip3/lecso.applynow.hu.ico",
     "slug": "lecso-jelentkezes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "97.89%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "97.88%",
     "uptimeMonth": "98.00%",
     "uptimeYear": "99.36%",
     "time": 177,
@@ -47,7 +47,7 @@
     "timeMonth": 192,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-10-19": 8,
+      "2025-10-19": 10,
       "2025-10-18": 33,
       "2025-10-17": 33,
       "2025-10-16": 27,
@@ -80,7 +80,7 @@
       "2025-09-17": 29,
       "2025-09-16": 14,
       "2025-09-15": 5,
-      "2025-09-14": 10
+      "2025-09-14": 5
     }
   },
   {
@@ -110,16 +110,16 @@
     "url": "https://teleelettel.hu",
     "icon": "https://icons.duckduckgo.com/ip3/teleelettel.hu.ico",
     "slug": "tele-elettel-programportal",
-    "status": "up",
-    "uptime": "98.19%",
-    "uptimeDay": "92.01%",
+    "status": "down",
+    "uptime": "98.20%",
+    "uptimeDay": "92.00%",
     "uptimeWeek": "94.15%",
-    "uptimeMonth": "93.76%",
-    "uptimeYear": "98.19%",
+    "uptimeMonth": "93.77%",
+    "uptimeYear": "98.20%",
     "time": 12886,
     "timeDay": 11103,
     "timeWeek": 11148,
-    "timeMonth": 12882,
+    "timeMonth": 12901,
     "timeYear": 12886,
     "dailyMinutesDown": {
       "2025-10-19": 76,
@@ -141,7 +141,7 @@
       "2025-10-03": 47,
       "2025-10-02": 463,
       "2025-10-01": 672,
-      "2025-09-30": 163
+      "2025-09-30": 159
     }
   },
   {
