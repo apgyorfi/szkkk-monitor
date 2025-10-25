@@ -49,6 +49,6 @@ workflowSchedule:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
-commitMessages:
-  commitAuthorName: "upptime-bot"
-  commitAuthorEmail: "hello@apgyorfi.dev"
+#commitMessages:
+ # commitAuthorName: "upptime-bot"
+ # commitAuthorEmail: "hello@apgyorfi.dev"
