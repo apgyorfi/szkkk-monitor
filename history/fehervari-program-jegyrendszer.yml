@@ -1,7 +1,7 @@
 url: https://fehervariprogram.hu/jegy
-status: up
-code: 200
-responseTime: 476
-lastUpdated: 2025-11-24T23:07:12.504Z
+status: down
+code: 500
+responseTime: 650
+lastUpdated: 2025-11-24T23:39:14.704Z
 startTime: 2025-07-06T12:37:28.806Z
 generator: Upptime <https://github.com/upptime/upptime>
