@@ -121,9 +121,9 @@
     "url": "https://teleelettel.hu",
     "icon": "https://icons.duckduckgo.com/ip3/teleelettel.hu.ico",
     "slug": "tele-elettel-programportal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "97.29%",
+    "uptimeDay": "97.27%",
     "uptimeWeek": "96.78%",
     "uptimeMonth": "97.17%",
     "uptimeYear": "99.39%",
@@ -163,8 +163,7 @@
       "2025-11-01": 24,
       "2025-10-31": 8,
       "2025-10-30": 32,
-      "2025-10-29": 32,
-      "2025-10-28": 11
+      "2025-10-29": 32
     }
   },
   {
