@@ -6,7 +6,7 @@
     "slug": "fehervari-program",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "98.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.41%",
@@ -123,12 +123,12 @@
     "url": "https://teleelettel.hu",
     "icon": "https://icons.duckduckgo.com/ip3/teleelettel.hu.ico",
     "slug": "tele-elettel-programportal",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "97.09%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "97.07%",
     "uptimeWeek": "95.81%",
-    "uptimeMonth": "96.70%",
-    "uptimeYear": "99.34%",
+    "uptimeMonth": "96.73%",
+    "uptimeYear": "99.35%",
     "time": 12779,
     "timeDay": 12497,
     "timeWeek": 14825,
@@ -163,7 +163,7 @@
       "2025-11-10": 58,
       "2025-11-09": 29,
       "2025-11-08": 12,
-      "2025-11-06": 109
+      "2025-11-06": 96
     }
   },
   {
