@@ -12,7 +12,7 @@
     "uptimeYear": "99.50%",
     "time": 1234,
     "timeDay": 502,
-    "timeWeek": 509,
+    "timeWeek": 477,
     "timeMonth": 599,
     "timeYear": 1234,
     "dailyMinutesDown": {
@@ -63,7 +63,7 @@
     "uptimeYear": "99.66%",
     "time": 1287,
     "timeDay": 997,
-    "timeWeek": 943,
+    "timeWeek": 1016,
     "timeMonth": 990,
     "timeYear": 1287,
     "dailyMinutesDown": {
@@ -84,15 +84,15 @@
     "url": "https://teleelettel.hu",
     "icon": "https://icons.duckduckgo.com/ip3/teleelettel.hu.ico",
     "slug": "tele-elettel-programportal",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "83.98%",
-    "uptimeWeek": "89.98%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "83.97%",
+    "uptimeWeek": "90.81%",
     "uptimeMonth": "95.31%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.26%",
     "time": 12940,
     "timeDay": 19979,
-    "timeWeek": 16397,
+    "timeWeek": 16531,
     "timeMonth": 14306,
     "timeYear": 12940,
     "dailyMinutesDown": {
@@ -130,7 +130,7 @@
       "2025-12-24": 23,
       "2025-12-23": 7,
       "2025-12-22": 36,
-      "2025-12-21": 25
+      "2025-12-21": 11
     }
   },
   {
@@ -146,7 +146,7 @@
     "uptimeYear": "99.61%",
     "time": 601,
     "timeDay": 498,
-    "timeWeek": 462,
+    "timeWeek": 456,
     "timeMonth": 569,
     "timeYear": 601,
     "dailyMinutesDown": {
@@ -229,7 +229,7 @@
     "uptimeYear": "99.69%",
     "time": 331,
     "timeDay": 352,
-    "timeWeek": 288,
+    "timeWeek": 289,
     "timeMonth": 285,
     "timeYear": 331,
     "dailyMinutesDown": {
@@ -290,7 +290,7 @@
     "uptimeYear": "100.00%",
     "time": 293,
     "timeDay": 241,
-    "timeWeek": 250,
+    "timeWeek": 245,
     "timeMonth": 235,
     "timeYear": 293,
     "dailyMinutesDown": {
@@ -310,7 +310,7 @@
     "uptimeYear": "97.85%",
     "time": 599,
     "timeDay": 359,
-    "timeWeek": 680,
+    "timeWeek": 668,
     "timeMonth": 617,
     "timeYear": 599,
     "dailyMinutesDown": {
