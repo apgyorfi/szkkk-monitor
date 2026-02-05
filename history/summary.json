@@ -137,12 +137,12 @@
     "url": "https://baratsagmozi.hu",
     "icon": "https://icons.duckduckgo.com/ip3/baratsagmozi.hu.ico",
     "slug": "baratsag-mozi-honlap",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "96.10%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "96.07%",
     "uptimeWeek": "98.52%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.59%",
     "time": 600,
     "timeDay": 478,
     "timeWeek": 501,
@@ -215,8 +215,7 @@
       "2025-09-19": 18,
       "2025-09-05": 5,
       "2025-09-04": 2,
-      "2025-08-29": 2,
-      "2025-08-19": 12
+      "2025-08-29": 2
     }
   },
   {
