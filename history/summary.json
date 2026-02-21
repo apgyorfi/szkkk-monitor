@@ -96,7 +96,7 @@
     "time": 13071,
     "timeDay": 15726,
     "timeWeek": 14909,
-    "timeMonth": 15370,
+    "timeMonth": 15400,
     "timeYear": 13071,
     "dailyMinutesDown": {
       "2026-02-21": 22,
@@ -135,9 +135,9 @@
     "url": "https://baratsagmozi.hu",
     "icon": "https://icons.duckduckgo.com/ip3/baratsagmozi.hu.ico",
     "slug": "baratsag-mozi-honlap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "99.60%",
@@ -147,6 +147,7 @@
     "timeMonth": 465,
     "timeYear": 594,
     "dailyMinutesDown": {
+      "2026-02-21": 0,
       "2026-02-14": 11,
       "2026-02-13": 21,
       "2026-02-06": 11,
@@ -213,7 +214,7 @@
       "2025-09-29": 2,
       "2025-09-26": 4,
       "2025-09-21": 27,
-      "2025-09-19": 18
+      "2025-09-19": 6
     }
   },
   {
@@ -221,10 +222,10 @@
     "url": "https://musor.baratsagmozi.hu",
     "icon": "https://icons.duckduckgo.com/ip3/musor.baratsagmozi.hu.ico",
     "slug": "baratsag-mozi-jegyrendszer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.70%",
     "time": 328,
@@ -233,6 +234,7 @@
     "timeMonth": 275,
     "timeYear": 328,
     "dailyMinutesDown": {
+      "2026-02-21": 1,
       "2026-02-14": 11,
       "2026-02-06": 11,
       "2026-02-04": 19,
@@ -307,10 +309,10 @@
     "url": "https://diaknapok.hu",
     "icon": "https://icons.duckduckgo.com/ip3/diaknapok.hu.ico",
     "slug": "diaknapok",
-    "status": "up",
+    "status": "down",
     "uptime": "98.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "98.04%",
     "time": 607,
@@ -319,6 +321,7 @@
     "timeMonth": 736,
     "timeYear": 607,
     "dailyMinutesDown": {
+      "2026-02-21": 1,
       "2026-02-14": 11,
       "2026-02-06": 11,
       "2026-02-04": 19,
