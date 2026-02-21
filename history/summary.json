@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.49%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.52%",
     "time": 1201,
     "timeDay": 518,
-    "timeWeek": 526,
+    "timeWeek": 525,
     "timeMonth": 557,
     "timeYear": 1201,
     "dailyMinutesDown": {
@@ -87,18 +87,19 @@
     "url": "https://teleelettel.hu",
     "icon": "https://icons.duckduckgo.com/ip3/teleelettel.hu.ico",
     "slug": "tele-elettel-programportal",
-    "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "96.81%",
+    "status": "down",
+    "uptime": "98.03%",
+    "uptimeDay": "96.80%",
     "uptimeWeek": "95.24%",
-    "uptimeMonth": "85.07%",
-    "uptimeYear": "98.02%",
+    "uptimeMonth": "85.10%",
+    "uptimeYear": "98.03%",
     "time": 13064,
     "timeDay": 13677,
     "timeWeek": 14985,
     "timeMonth": 15334,
     "timeYear": 13064,
     "dailyMinutesDown": {
+      "2026-02-21": 0,
       "2026-02-20": 46,
       "2026-02-19": 35,
       "2026-02-18": 68,
@@ -127,7 +128,7 @@
       "2026-01-26": 85,
       "2026-01-25": 20,
       "2026-01-24": 242,
-      "2026-01-22": 30
+      "2026-01-22": 19
     }
   },
   {
