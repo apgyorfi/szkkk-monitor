@@ -89,12 +89,12 @@
     "slug": "tele-elettel-programportal",
     "status": "up",
     "uptime": "98.08%",
-    "uptimeDay": "84.00%",
-    "uptimeWeek": "92.14%",
+    "uptimeDay": "85.97%",
+    "uptimeWeek": "92.19%",
     "uptimeMonth": "85.11%",
     "uptimeYear": "98.08%",
     "time": 13064,
-    "timeDay": 12902,
+    "timeDay": 12984,
     "timeWeek": 13154,
     "timeMonth": 15287,
     "timeYear": 13064,
@@ -134,11 +134,11 @@
     "url": "https://baratsagmozi.hu",
     "icon": "https://icons.duckduckgo.com/ip3/baratsagmozi.hu.ico",
     "slug": "baratsag-mozi-honlap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "99.60%",
     "time": 593,
     "timeDay": 426,
@@ -146,6 +146,7 @@
     "timeMonth": 470,
     "timeYear": 593,
     "dailyMinutesDown": {
+      "2026-02-27": 0,
       "2026-02-23": 24,
       "2026-02-22": 14,
       "2026-02-21": 28,
@@ -214,7 +215,7 @@
       "2025-10-05": 11,
       "2025-09-29": 2,
       "2025-09-26": 4,
-      "2025-09-21": 17
+      "2025-09-21": 11
     }
   },
   {
