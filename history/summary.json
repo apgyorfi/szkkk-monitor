@@ -91,17 +91,17 @@
     "slug": "tele-elettel-programportal",
     "status": "down",
     "uptime": "98.03%",
-    "uptimeDay": "94.05%",
-    "uptimeWeek": "94.15%",
-    "uptimeMonth": "92.39%",
+    "uptimeDay": "89.68%",
+    "uptimeWeek": "93.53%",
+    "uptimeMonth": "92.34%",
     "uptimeYear": "98.03%",
-    "time": 13138,
-    "timeDay": 15748,
-    "timeWeek": 15559,
-    "timeMonth": 15429,
-    "timeYear": 13138,
+    "time": 13140,
+    "timeDay": 15903,
+    "timeWeek": 15590,
+    "timeMonth": 15305,
+    "timeYear": 13140,
     "dailyMinutesDown": {
-      "2026-04-01": 0,
+      "2026-04-01": 63,
       "2026-03-31": 134,
       "2026-03-30": 19,
       "2026-03-29": 92,
@@ -135,7 +135,7 @@
       "2026-02-11": 171,
       "2026-02-10": 1230,
       "2026-02-09": 1158,
-      "2026-02-08": 140
+      "2026-02-08": 83
     }
   },
   {
