@@ -90,11 +90,11 @@
     "url": "https://teleelettel.hu",
     "icon": "https://icons.duckduckgo.com/ip3/teleelettel.hu.ico",
     "slug": "tele-elettel-programportal",
-    "status": "up",
+    "status": "down",
     "uptime": "98.62%",
-    "uptimeDay": "91.98%",
+    "uptimeDay": "91.97%",
     "uptimeWeek": "92.32%",
-    "uptimeMonth": "96.77%",
+    "uptimeMonth": "96.84%",
     "uptimeYear": "98.62%",
     "time": 13170,
     "timeDay": 16772,
@@ -136,7 +136,7 @@
       "2026-02-15": 26,
       "2026-02-14": 63,
       "2026-02-13": 143,
-      "2026-02-12": 99
+      "2026-02-12": 69
     }
   },
   {
@@ -235,11 +235,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/musor.baratsagmozi.hu.ico",
     "slug": "baratsag-mozi-jegyrendszer",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 329,
     "timeDay": 296,
     "timeWeek": 302,
