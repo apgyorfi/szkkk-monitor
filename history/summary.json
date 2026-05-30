@@ -4,17 +4,17 @@
     "url": "https://www.fehervariprogram.hu",
     "icon": "https://icons.duckduckgo.com/ip3/www.fehervariprogram.hu.ico",
     "slug": "fehervari-program",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 1131,
-    "timeDay": 849,
-    "timeWeek": 709,
-    "timeMonth": 794,
-    "timeYear": 1131,
+    "time": 1129,
+    "timeDay": 550,
+    "timeWeek": 651,
+    "timeMonth": 776,
+    "timeYear": 1129,
     "dailyMinutesDown": {
       "2025-07-06": 543,
       "2025-07-07": 287,
@@ -54,7 +54,8 @@
       "2026-03-26": 39,
       "2026-03-29": 15,
       "2026-04-05": 20,
-      "2026-04-29": 40
+      "2026-04-29": 40,
+      "2026-05-30": 1
     }
   },
   {
